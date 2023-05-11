@@ -8,4 +8,4 @@
 - ⚡ Fun fact: Procastination at its peak is Productivity
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sanchit781?theme=dark&font=Courier%20Prime&ext=activity)](https://leetcode.com/sanchit781)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sanchit781?theme=unicorn&font=Chivo&ext=activity)](https://leetcode.com/sanchit781)
