@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/sanchit781)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sanchit Agarwal)](https://leetcode.com/sanchit781)
 <!--
 **sanchit781/sanchit781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
